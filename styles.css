@@ -1,0 +1,35 @@
+/* app css stylesheet */
+.hoverwell:hover {
+  background-color: #0C3BD0;
+  cursor: pointer;
+}
+
+.container {
+  background-color: #0B6CA7;
+  padding-top: 10px;
+}
+
+.pointable {
+  cursor: pointer;
+}
+
+button {
+  color: #555;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.toast-success {
+  background-color: #51a351;
+}
+.toast-error {
+  background-color: #bd362f;
+}
+.toast-info {
+  background-color: #2f96b4;
+}
+.toast-warning {
+  background-color: #f89406;
+}
